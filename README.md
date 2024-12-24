@@ -15,3 +15,5 @@
 -**Basic concept of handling a large dataset and using python libraries for analyzing it**
 
 -**Open AI interfacing and building and openai using pre trianed models and prompting to it**
+
+-**Prompting and executing image based access and extracting the text present in image**
