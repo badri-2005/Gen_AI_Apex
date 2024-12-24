@@ -12,8 +12,12 @@
 
 ## Day - 2
 
--**Basic concept of handling a large dataset and using python libraries for analyzing it**
+-**JSON Parsing**
 
--**Open AI interfacing and building and openai using pre trianed models and prompting to it**
+-**Introduction to OpenAI Tokens and its Pricing**
 
--**Prompting and executing image based access and extracting the text present in image**
+-**Inference with OpenAI chat model**
+
+-**Google GenerativeAI - Gemini Pro - Gemini 1.5 Flash Models Inference**
+
+## Day - 3
