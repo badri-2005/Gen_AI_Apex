@@ -3,7 +3,7 @@
 ## Day - 1
 
 -**Basic Concepts of AI.**
-** **
+* *
 -**What is LLM?**
 ** **
 -**What is NLP?**
