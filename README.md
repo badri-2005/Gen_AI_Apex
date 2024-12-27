@@ -21,3 +21,15 @@
 -**Google GenerativeAI - Gemini Pro - Gemini 1.5 Flash Models Inference**
 
 ## Day - 3
+
+-**Introduction to SQLite DB**
+
+-**Function used and integrated to AI**
+
+## Day -4
+
+-**Langchain**
+
+-**Hugging Face**
+
+-**Using Streamlit to enhance to query for retrieving the Data**
