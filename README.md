@@ -33,3 +33,7 @@
 -**Hugging Face**
 
 -**Using Streamlit to enhance to query for retrieving the Data**
+
+-**Transformers
+Pipeline
+tokenizer**
