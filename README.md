@@ -26,7 +26,7 @@
 
 -**Function used and integrated to AI**
 
-## Day -4
+## Day - 4
 
 -**Langchain**
 
@@ -37,3 +37,10 @@
 -**Transformers
 Pipeline
 tokenizer**
+
+## Day - 5
+
+-**Recursive Text Spliller using Langchain**
+
+-**RAG - Retrieval Agumented Reality**
+
